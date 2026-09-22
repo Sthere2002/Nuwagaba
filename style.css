@@ -1,0 +1,95 @@
+body{
+    background-color: purple;
+    background-image: url(IMG_E1995[1].JPG);
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-decoration-style: dashed;
+
+    
+    
+    
+}
+form{
+    background-color: rgb(208, 164, 77);
+    width: 150px;
+    padding: 60px;
+    box-shadow: 10px 15px 10px 15px;
+    border-radius: 20px;
+    font-style: italic;
+    font-size: larger;
+    margin: 125px auto;
+    
+
+    
+}
+button{
+    
+    background-color: rgb(34, 6, 158);
+    padding: 20px;
+    border-radius: 10px;
+    text-transform: lowercase;
+    color: white;
+    font-style: italic;
+    
+}
+nav{
+    justify-content: space-between;
+    display: flex;
+    background-color: rgb(53, 184, 10);
+    padding: 20px;
+    border-radius: 20px;
+    font-style: italic;
+    background-image: url (IMG_E1996[]JPG);
+    
+    
+}
+nav img{
+    width: 75px;
+
+
+}
+
+nav li{
+    justify-content: space-between;
+    display: flex;
+    
+}
+nav li a{
+    text-decoration: none;
+    font-size: x-large;
+    font-weight: bolder;
+    
+}
+h1{font-weight: bolder;
+    color: rgb(188, 10, 228);
+
+}
+header{
+    justify-content: space-between;
+    display: flex;
+    font-size: xx-large;
+    
+}
+ol{
+    font-size: xx-large;
+    text-decoration: none;
+    font-weight: bolder;
+    color: rgba(223, 227, 11, 0.639);
+    
+}
+.log a{
+    width: 50px;
+    height: 30px;
+}
+ul
+{
+    padding: 5px;
+    justify-content: space-between;
+    
+
+
+}
+
+
+
